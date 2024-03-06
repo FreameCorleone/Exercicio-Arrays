@@ -1,4 +1,5 @@
-package src3;
+package arrays.src3;
+
 
 import java.util.List;
 

@@ -1,3 +1,5 @@
+package arrays.src2;
+
 import java.util.Scanner;
 
 public class Ex02 {

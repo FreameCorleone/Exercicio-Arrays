@@ -1,4 +1,4 @@
-package src3;
+package arrays.src3;
 
 import java.util.ArrayList;
 import java.util.List;

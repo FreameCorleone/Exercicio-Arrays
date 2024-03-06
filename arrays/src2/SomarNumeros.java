@@ -1,3 +1,5 @@
+package arrays.src2;
+
 public class SomarNumeros {
     private int[] numeros;
 
